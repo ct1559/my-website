@@ -1,3 +1,9 @@
+body::before {
+  display: block;
+  content: "";
+  height: 100px;
+}
+
 #welcome-photo {
   max-width: 35%;
 }
